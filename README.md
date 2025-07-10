@@ -1,4 +1,4 @@
-<h2 align="center">Hola, Soy Eduardo!</h2>
+<h2 align="center">¡Hola, Soy Eduardo!</h2>
 
 <div id="badges" align="center">
   <a href="mailto:eduardotanca@gmail.com">
@@ -72,4 +72,5 @@ Soy un estudiante de Ingeniería de Software con una fuerte inclinación por el 
   </tr>
 </table>
 
-<h4 align="center">La IA escribió este código. Yo solo lo sufrí.</h4>
+<!-- <p align="center"><i>El cliente dijo ‘simple’, y aquí estamos 3 meses después.</i></p> -->
+
